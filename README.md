@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif/banner.gif" alt="Banner" width="100%" />
+</p>
+
 # Hey, I'm Harshil 👋
 
 ### Full Stack Developer • MERN • AI-Augmented Engineering
